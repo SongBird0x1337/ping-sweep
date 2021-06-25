@@ -53,3 +53,4 @@ if __name__ == '__main__' :
     while not resultq.empty():
         ip = resultq.get();
 
+        print('%s\thost is up'%(ip))
