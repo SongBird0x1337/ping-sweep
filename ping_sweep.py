@@ -7,7 +7,7 @@ import argparse
 import sys
 import os
 
-
+# Nice comment
 def sweeper( job_q , results_q, interface):
     DEVNULL = open(os.devnull,'w')
     while True : 
