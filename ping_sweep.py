@@ -23,7 +23,12 @@ def sweeper( job_q , results_q, interface):
     
         except:
             pass
+<<<<<<< Updated upstream
 
+=======
+#i am a good boy
+        # Porbably not 
+>>>>>>> Stashed changes
 
 if __name__ == '__main__' : 
     
