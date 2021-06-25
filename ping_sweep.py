@@ -7,7 +7,7 @@ import argparse
 import sys
 import os
 
-#yuvraj is gay
+#yuvraj is HOMOsexual
 
 def sweeper( job_q , results_q, interface):
     DEVNULL = open(os.devnull,'w')
