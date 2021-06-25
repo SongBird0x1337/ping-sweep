@@ -7,7 +7,6 @@ import argparse
 import sys
 import os
 
-#yuvraj is HOMOsexual
 
 def sweeper( job_q , results_q, interface):
     DEVNULL = open(os.devnull,'w')
@@ -23,12 +22,6 @@ def sweeper( job_q , results_q, interface):
     
         except:
             pass
-<<<<<<< Updated upstream
-
-=======
-#i am a good boy
-        # Porbably not 
->>>>>>> Stashed changes
 
 if __name__ == '__main__' : 
     
