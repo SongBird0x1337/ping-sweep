@@ -24,7 +24,7 @@ def sweeper( job_q , results_q, interface):
         except:
             pass
 #i am a good boy
-
+#you are a good girl
 if __name__ == '__main__' : 
     
     arg_parser = argparse.ArgumentParser(description='Performs quick ping sweep on a given network')
